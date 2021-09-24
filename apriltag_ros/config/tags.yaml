@@ -19,10 +19,10 @@
 #   ]
 standalone_tags:
   [
-    {id: 0, size: 0.2, name: landing_target},
-    {id: 1, size: 0.2, name: landing_target},
-    {id: 2, size: 0.2, name: landing_target},
-    {id: 3, size: 0.2, name: landing_target}
+    {id: 0, size: 0.11, name: landing_target},
+    {id: 1, size: 0.11, name: landing_target},
+    {id: 2, size: 0.11, name: landing_target},
+    {id: 3, size: 0.11, name: landing_target}
   ]
 # ## Tag bundle definitions
 # ### Remarks
